@@ -13,8 +13,8 @@ const Main = () => {
 
   const position = {
     scissors : '0px',
-    rock : '680px',
-    paper : '330px',
+    rock : '605px',
+    paper : '292px',
   }
 
   const image = {

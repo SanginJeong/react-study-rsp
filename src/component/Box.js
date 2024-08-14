@@ -3,7 +3,7 @@ import React from 'react'
 const Box = ({player, choice, image, result}) => {
  
   const imgStyle = {
-    width: '330px',
+    width: '290px',
     height: '100%',
     backgroundImage : choice ? 'url(/images/rsp.png)' : image,
     backgroundSize: 'cover',
