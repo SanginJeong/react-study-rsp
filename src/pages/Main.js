@@ -73,9 +73,9 @@ const Main = () => {
   }, [result]);
 
   const winnerMessage = score.user === 2 
-  ? "유저 승!!" 
+  ? "옥지 승!!" 
   : score.computer === 2 
-  ? "컴퓨터 승!!" 
+  ? "빵빵이 승!!" 
   : `${score.user}승 ${score.computer}패`;
 
 
